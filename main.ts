@@ -1,4 +1,10 @@
-basic.showIcon(IconNames.Happy)
+basic.showLeds(`
+    # . . . #
+    # # . # #
+    # . # . #
+    # . . . #
+    # . . . #
+    `)
 basic.forever(function () {
 	
 })
